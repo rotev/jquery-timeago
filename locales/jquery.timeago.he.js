@@ -1,18 +1,20 @@
 // Hebrew
 jQuery.timeago.settings.strings = {
   prefixAgo: "לפני",
-  prefixFromNow: "מעכשיו",
-  suffixAgo: "",
-  suffixFromNow: "",
+  prefixFromNow: "בעוד",
+  suffixAgo: null,
+  suffixFromNow: null,
   seconds: "פחות מדקה",
-  minute: "דקה",
+  minute: "כדקה",
   minutes: "%d דקות",
-  hour: "שעה",
-  hours: "%d שעות",
+  hour: "כשעה",
+  hours: "%d שעות בערך",
   day: "יום",
   days: "%d ימים",
-  month: "חודש",
+  month: "כחודש",
   months: "%d חודשים",
-  year: "שנה",
-  years: "%d שנים"
+  year: "כשנה",
+  years: "%d שנים",
+  wordSeparator: " ",
+  numbers: []
 };
